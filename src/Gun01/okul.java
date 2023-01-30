@@ -5,5 +5,7 @@ public class okul {
         System.out.println("merhaba1");
 
         System.out.println("merhaba 2");
+
+        System.out.println("okuldan merhaba");
     }
 }
