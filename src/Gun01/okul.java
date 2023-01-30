@@ -6,6 +6,6 @@ public class okul {
 
         System.out.println("merhaba 2");
 
-        System.out.println("okuldan merhaba");
+        System.out.println("okuldan merhaba 1");
     }
 }
